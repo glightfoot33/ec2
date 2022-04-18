@@ -1,0 +1,3 @@
+[submodule "ec2"]
+	path = ec2
+	url = https://github.com/glightfoot33/ec2.git
